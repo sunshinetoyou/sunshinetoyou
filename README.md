@@ -1,32 +1,54 @@
-# Hi there 👋, I'm sunshinetoyou!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer)
+## 활동 이력
+---
 
-<br/>
+| 기간                | 내용                                                                | 비고  |
+| ----------------- | ----------------------------------------------------------------- | --- |
+| 2025.12 ~ 2026.06 | 오토에버 부트캠프                                                         |     |
+| 2025.09 ~ 2025.11 | JJJ-CTF 동아리 운영                                                    |     |
+| 2024.07 ~ 2025.08 | 단국대학교 CSOS 연구실 학부 인턴                                              |     |
+| 2024.07           | 2024 K-HTML 해커톤 대회 최우수상 <br>(노인 등 교통 약자를 위한 대중교통 이용 편의 서비스 데모 개발) |     |
 
-## 🙋‍♂️ About Me
-- 🔭 현재 **[진행 중인 프로젝트 이름]** 을(를) 개발하고 있습니다.
-- 🌱 **[배우고 있는 기술이나 언어]** 을(를) 깊이 있게 공부 중입니다.
-- 💬 **[자신 있는 분야]** 에 대해 궁금한 점이 있다면 언제든 물어보세요!
-- 📫 연락처: **[이메일 주소 또는 블로그 링크]**
 
-<br/>
+## 포트폴리오
+---
+#### 자동차 연동 앱(CCA) 분석 경험 및 연구실 학부 인턴&논문 투고 경험
 
-## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-</p>
+| 기간      | 내용                                         | 비고              |
+| ------- | ------------------------------------------ | --------------- |
+| 2025.05 | 안드로이드용 현대 블루링크 앱의 데이터 분석을 통한 사용자 검색 장소 재구성 | 차세대컴퓨팅학회 춘계학술대회 |
+| 2025.11 | 커넥티드카 앱을 통한 차량 권한 탈취 가능성 실증 연구             | 한국자동차공학회 추계학술대회 |
 
-<br/>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunshinetoyou&show_icons=true&theme=radical" alt="sunshinetoyou's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunshinetoyou&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+#### 소규모 동아리 운영 및 CTF 참여 경험
+
+> 지인 3명과 같이 만든 **JJJA 동아리**
+
+활동 내용
+- Dreamhack 기반 워게임 문제풀이 공유
+- 다수의 CTF 예선 참여
+	- 2025 국정원 CTF
+	- 2025 화이트햇 CTF
+	- 2025 SDU COSS CTF
+	- 그 외 ctftimes에서 신청한 ctf 들
+- 교내 해커톤(EasyThon) 참여
+- 멘토링 (안랩, 보안 커리어데이(금보원))
+
+
+#### 해커톤 경험
+
+> K-HTML 해커톤
+> 주제: 노인 등 교통 약자를 위한 대중교통 이용 편의 서비스 데모 개발
+
+
+#### 블로그 운영 경험 (추가 운영 필요)
+- 프로토콜 공부
+-  1-day 취약점 공부
+- CTF write up
+- AI에 대한 고찰
+
+#### 깃허브 레포 4개 (추가 개발 필요)
+- 보안 뉴스 큐레이터 (AOS)
+- 주통기반 AI 스크립팅 생성 및 평가 자동화
+- SHEACK LAB (SEC/HACK LAB)
+- DanDoor
