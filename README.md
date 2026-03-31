@@ -7,8 +7,7 @@
 <br>
 
 ### 🏢 Experience
-- **Hyundai AutoEver Bootcamp** `2025.12 ~ 2026.06`
-- **JJJ-CTF Club** - Founder & Manager `2025.09 ~ 2025.11`
+- **Hyundai AutoEver Bootcamp** `2025.12 ~ 2026.06(예정)`
 - **Dankook Univ. CSOS Lab** - Undergraduate Intern `2024.07 ~ 2025.08`
 
 <br>
