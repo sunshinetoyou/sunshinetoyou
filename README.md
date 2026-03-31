@@ -15,7 +15,7 @@
 ### 💻 Publications
 
 ***Conference***
-- **Connected Car App(CCA) 차량 권한 탈취 가능성 실증** [KSAE 2025 Autumn Conference]()
+- **커넥티드카 앱을 통한 차량 권한 탈취 가능성 실증 연구** [KSAE 2025 Autumn Conference]()
 - **안드로이드용 현대 블루링크 앱의 데이터 분석을 통한 사용자 검색 장소 재구성** [KINGC 2025 Spring Conference]()
 
 <br>
