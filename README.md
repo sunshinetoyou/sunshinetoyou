@@ -13,20 +13,29 @@
 <br>
 
 ### 💻 Publications
-
 ***Conference***
-- 커넥티드카 앱을 통한 차량 권한 탈취 가능성 실증 연구, [KSAE 2025 Autumn Conference](https://github.com/sunshinetoyou/sunshinetoyou/blob/main/papers/%EC%B0%A8%EC%BB%B4_%EC%B6%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_v2.2.pdf)
-- 안드로이드용 현대 블루링크 앱의 데이터 분석을 통한 사용자 검색 장소 재구성, [KINGC 2025 Spring Conference](https://github.com/sunshinetoyou/sunshinetoyou/blob/main/papers/%ED%95%9C%EA%B5%AD%EC%9E%90%EB%8F%99%EC%B0%A8%ED%95%99%ED%9A%8C_%EC%B6%94%EA%B3%84_v1.1.pdf)
+- _"커넥티드카 앱을 통한 차량 권한 탈취 가능성 실증 연구"_, [KSAE 2025](https://github.com/sunshinetoyou/sunshinetoyou/blob/main/papers/%EC%B0%A8%EC%BB%B4_%EC%B6%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_v2.2.pdf)
+- _"안드로이드용 현대 블루링크 앱의 데이터 분석을 통한 사용자 검색 장소 재구성"_, [KINGC 2025](https://github.com/sunshinetoyou/sunshinetoyou/blob/main/papers/%ED%95%9C%EA%B5%AD%EC%9E%90%EB%8F%99%EC%B0%A8%ED%95%99%ED%9A%8C_%EC%B6%94%EA%B3%84_v1.1.pdf)
+
+<br>
+
+### 🔭 Project
+
+| 프로젝트명 | URL |
+| ---------- | --- |
+| 보안 뉴스 큐레이터 |  |
+| 주통기반 취약점 진단 자동화 |  |
+| SHEACK LAB | |
+| DanDoor | |
 
 <br>
 
 ### 🚩 Activities
 - `2024.07` **K-HTML 해커톤 최우수상**
-  - 노약자 대상 교통 안내 서비스 개발
 
 <br>
 
 ### 🛠️ Skills & Tools
 - **Security:** Vulnerability Analysis, Penetration Testing, Android App Analysis
-- **Languages:** Python, C/C++
-- **Tools:** Burp Suite, JEB, Frida
+- **Languages:** Python, C/C++, javascript
+- **Tools:** Ghidra, JADX, JD-GUI, Frida, MobSF, Magisk, Autopsy
