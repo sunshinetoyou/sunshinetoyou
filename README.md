@@ -7,9 +7,31 @@
 <br>
 
 ### 🛠️ Skills & Tools
-- **Security:** Reversing, Vulnerability Analysis, Penetration Testing, Android App Analysis
-- **Languages:** Python, C/C++, javascript
-- **Tools:** Ghidra, JADX, JD-GUI, Frida, MobSF, Magisk, Autopsy
+**🛡️ Security**
+<p align="left">
+  <img src="https://img.shields.io/badge/Reversing-232F3E?style=for-the-badge" alt="reversing"/>
+  <img src="https://img.shields.io/badge/Vulnerability%20Analysis-232F3E?style=for-the-badge" alt="vuln analysis"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-232F3E?style=for-the-badge" alt="pentesting"/>
+  <img src="https://img.shields.io/badge/Android%20App%20Analysis-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android analysis"/>
+</p>
+
+**⌨️ Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c/c++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+</p>
+
+**🔧 Tools**
+<p align="left">
+  <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ghidra-4B4B4B?style=for-the-badge" alt="ghidra"/> </a>
+  <a href="https://github.com/skylot/jadx" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JADX-2C2255?style=for-the-badge" alt="jadx"/> </a>
+  <a href="https://java-decompiler.github.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JD--GUI-E02020?style=for-the-badge" alt="jd-gui"/> </a>
+  <a href="https://frida.re/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Frida-480A8F?style=for-the-badge" alt="frida"/> </a>
+  <a href="https://github.com/MobSF/Mobile-Security-Framework-MobSF" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MobSF-000000?style=for-the-badge&logo=android&logoColor=white" alt="mobsf"/> </a>
+  <a href="https://github.com/topjohnwu/Magisk" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Magisk-00AF9C?style=for-the-badge&logo=magisk&logoColor=white" alt="magisk"/> </a>
+  <a href="https://www.autopsy.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Autopsy-5C2D91?style=for-the-badge" alt="autopsy"/> </a>
+</p>
 
 <br>
 
