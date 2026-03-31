@@ -6,7 +6,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunshinetoyou)](https://solved.ac/sunshinetoyou/)
 
-![Yeonsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunshinetoyou&show_icons=true&theme=dracula)
+!--![Yeonsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunshinetoyou&show_icons=true&theme=dracula)--!
 
 <br>
 
