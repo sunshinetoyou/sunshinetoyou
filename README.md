@@ -6,6 +6,13 @@
 
 <br>
 
+### 🛠️ Skills & Tools
+- **Security:** Reversing, Vulnerability Analysis, Penetration Testing, Android App Analysis
+- **Languages:** Python, C/C++, javascript
+- **Tools:** Ghidra, JADX, JD-GUI, Frida, MobSF, Magisk, Autopsy
+
+<br>
+
 ### 🏢 Experience
 - `2025.12 ~ 2026.06(예정)` **Hyundai AutoEver Bootcamp**
 - `2024.07 ~ 2025.12` **Dankook Univ. CSOS Lab** - Undergraduate Intern
@@ -32,10 +39,3 @@
 
 ### 🚩 Activities
 - `2024.07` **K-HTML 해커톤 최우수상**
-
-<br>
-
-### 🛠️ Skills & Tools
-- **Security:** Vulnerability Analysis, Penetration Testing, Android App Analysis
-- **Languages:** Python, C/C++, javascript
-- **Tools:** Ghidra, JADX, JD-GUI, Frida, MobSF, Magisk, Autopsy
