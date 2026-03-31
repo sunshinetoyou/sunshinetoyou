@@ -1,9 +1,8 @@
-## MinHyuk (sunshinetoyou)
-<a href="mailto:[본인 이메일 주소]"> <img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white"/> </a>
-<a href="[블로그 링크]"><img src="https://img.shields.io/badge/Blog-2C2D72?style=flat-square&logo=tistory&logoColor=white"/></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([본인 링크드인 주소])
+## Yeonsu Jung (sunshinetoyou)
+<a href="mailto:[yeonsu@dankook.ac.kr]"> <img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white"/> </a>
+<a href="[blog.danyeon.cloud]"><img src="https://img.shields.io/badge/Blog-2C2D72?style=flat-square&logo=tistory&logoColor=white"/></a>
 
-커넥티드 카(Connected Car) 보안과 안드로이드 애플리케이션 취약점 분석에 관심이 많은 보안 연구원입니다. 실제 발생하는 1-day 취약점 분석과 프로토콜 연구를 꾸준히 기록하고 있습니다.
+커넥티드 카(Connected Car)와 차량 연동 앱(Connected Car App) 사이의 보안에 관심이 많은 대학생(휴학)입니다.<br>
 
 <br>
 
