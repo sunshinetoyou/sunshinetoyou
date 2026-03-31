@@ -4,6 +4,10 @@
 
 > 커넥티드 카와 모바일 애플리케이션 간의 보안 취약점을 분석하고 연구하는 휴학생입니다.
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunshinetoyou)](https://solved.ac/sunshinetoyou/)
+
+![Yeonsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunshinetoyou&show_icons=true&theme=dracula)
+
 <br>
 
 ### 🛠️ Skills & Tools
