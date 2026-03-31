@@ -2,13 +2,13 @@
 <a href="yeonsu@dankook.ac.kr"> <img src="https://img.shields.io/badge/yeonsu@dankook.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white"/> </a>
 <a href="https://blog.danyeon.cloud"><img src="https://img.shields.io/badge/Blog-2C2D72?style=flat-square&logo=tistory&logoColor=white"/></a>
 
-커넥티드 카(Connected Car)와 차량 연동 앱(Connected Car App) 사이의 보안에 관심이 많은 대학생(휴학)입니다.<br>
+커넥티드 카(Connected Car)와 모바일 애플리케이션 간의 보안 취약점을 분석하고 연구하는 휴학생입니다.
 
 <br>
 
 ### 🏢 Experience
-- **Hyundai AutoEver Bootcamp** `2025.12 ~ 2026.06(예정)`
-- **Dankook Univ. CSOS Lab** - Undergraduate Intern `2024.07 ~ 2025.08`
+- `2025.12 ~ 2026.06(예정)` **Hyundai AutoEver Bootcamp**
+- `2024.07 ~ 2025.08` **Dankook Univ. CSOS Lab** - Undergraduate Intern
 
 <br>
 
