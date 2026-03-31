@@ -1,5 +1,5 @@
 ## Yeonsu Jung (sunshinetoyou)
-<a href="yeonsu@dankook.ac.kr"> <img src="https://img.shields.io/badge/yeonsu@dankook.ac.kr?style=flat-square&logo=Gmail&logoColor=white"/> </a>
+<a href="yeonsu@dankook.ac.kr"> <img src="https://img.shields.io/badge/yeonsu@dankook.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white"/> </a>
 <a href="https://blog.danyeon.cloud"><img src="https://img.shields.io/badge/Blog-2C2D72?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 커넥티드 카(Connected Car)와 차량 연동 앱(Connected Car App) 사이의 보안에 관심이 많은 대학생(휴학)입니다.<br>
